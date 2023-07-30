@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ellipse_2 from your XD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="oval" >
+	<solid android:color="@color/ellipse_2_color" />
+	<gradient android:angle="315" android:type="linear" android:startColor="#ff000000" android:centerColor="#ff000000" android:endColor="#ff000000" />
+</shape>
+

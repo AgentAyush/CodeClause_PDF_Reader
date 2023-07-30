@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- android_large___1 strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="pdf_reader___converter_string">PDF Reader&amp; Converter</string>
+    <string name="read_pdf_string">Read PDF</string>
+    <string name="read_doc_string">Read DOC</string>
+    <string name="instant_pdf_string">Instant PDF</string>
+    <string name="image_to_pdf_string">Image to PDF</string>
+    <string name="PDFreader">PDFreader</string>
+    <string name="search">search</string>
+</resources>
